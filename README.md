@@ -1,1 +1,1 @@
-# NjDS-CICD-Repo
+CICD-Repo
